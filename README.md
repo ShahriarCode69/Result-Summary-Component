@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ShahriarCode69/Result-Summary-Component)
-- Live Site URL: [Add live site URL here](https://resultsummarycomponentsc.netlify.app)
+- Solution URL: [Github](https://github.com/ShahriarCode69/Result-Summary-Component)
+- Live Site URL: [Live Site](https://resultsummarycomponentsc.netlify.app)
 
 ### Built with
 
